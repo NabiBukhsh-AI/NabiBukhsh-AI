@@ -10,10 +10,10 @@
 ### 🚀 About Me
 
 - 🔭 I’m working on **Generative AI SaaS products**, **RAG Pipelines**, and **LLM Integrations**
-- 🧠 Skilled in building **full-stack apps**, scalable APIs, and **LLM-powered agents**
-- 🌱 Constantly learning about AI, Multi-Agent Systems, and cutting-edge Cloud architectures
-- ⚙️ Architected solutions for **document validation**, **contract review**, and **AI-enabled platforms**
-- 🎯 Passionate about creating real-world solutions using **Machine Learning, NLP, and Cloud**
+- 🤖 Skilled in building **full-stack apps**, scalable APIs, and **LLM-powered agents**
+- 🧠 Passionate about solving real-world problems using AI, NLP, and Distributed Systems
+- 🛡️ Delivered solutions for **legal document validation**, **AI contract analysis**, and **multi-agent systems**
+- 🌱 Always learning and evolving with the latest in AI and Cloud Architecture
 
 ---
 
@@ -22,14 +22,20 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Langchain-0A0A0A?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-3A3A3A?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-2E3440?style=for-the-badge&logo=Anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
@@ -38,10 +44,11 @@
 ### 🛡️ Domains of Expertise
 - 🔍 LLM Applications & Generative AI
 - 📚 Retrieval-Augmented Generation (RAG)
-- 🤖 Multi-Agent AI Systems
-- ⚙️ API & SaaS Architecture
-- ☁️ Cloud Functions & Infrastructure (AWS, GCP)
-- 📈 AI Integrations in Business Solutions
+- 🤖 Multi-Agent AI Systems (Langchain, LlamaIndex)
+- ⚙️ SaaS & API Architecture
+- ☁️ Cloud Functions & Serverless Architecture (AWS, GCP)
+- 📈 AI Solutions for Business Use Cases
+- 🔌 Integrations with Anthropic, OpenAI, Hugging Face, MCP
 
 ---
 
@@ -58,22 +65,22 @@
 ### 🔭 Featured Projects
 - [⚙️ AI Contract Validator](https://github.com/NabiBukhsh-AI/) - Automated legal contract review with LLM & RAG.
 - [🔍 RAG Pipeline Example](https://github.com/NabiBukhsh-AI/) - FastAPI-based RAG pipeline with vector databases.
-- [🧑‍💻 Multi-Agent Platform](https://github.com/NabiBukhsh-AI/) - Modular Multi-Agent Framework for solving complex queries.
+- [🤖 Multi-Agent Platform](https://github.com/NabiBukhsh-AI/) - Modular Multi-Agent Framework for complex problem solving.
 
 ---
 
-### 🌱 Currently Learning
-- Agentic Workflows
+### 🌱 Currently Exploring
+- Multi-Agent Systems
 - Vector Database Optimization
-- Generative AI in Product Design
+- Generative AI Product Design
 - Event-driven Microservices
 
 ---
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/nabi-bukhsh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:nabibukhsh2@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/nabibukhshjawed/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:nabibuksh.baloch01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 </p>
 
 ---
