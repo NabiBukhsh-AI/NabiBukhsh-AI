@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm Nabi Bukhsh Jawed 👋
+  Hey, I'm Nabi Bukhsh 👋
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@ class NabiBukhsh:
     role        = "Senior AI Engineer @ Tracker AI"
     based_in    = "Karachi, Pakistan"
     expertise   = ["LLM Fine-Tuning (SFT)", "Agentic RAG", "Voice AI", "OCR"]
-    stack       = ["Python", "FastAPI", "LangChain", "PyTorch", "Docker", "GCP"]
+    stack       = ["Python", "FastAPI", "LangChain", "LangGraph", "PyTorch", "Docker"]
     shipped     = ["USCIS intake automation", "AI interview platform",
                    "LLaMA 3.2 Arabic fine-tune", "AI Chrome extension"]
     sideline    = "Systematic trading research (MQL5 / Python)"
@@ -40,31 +40,63 @@ class NabiBukhsh:
 
 ---
 
-### 💼 Experience Highlights
-
-| When | Role | What I shipped |
-|------|------|----------------|
-| **09/2025 – Present** | Senior AI Engineer · **Tracker AI** | SFT pipelines, eval frameworks, versioned production rollouts |
-| **05/2025 – 08/2025** | Senior AI Engineer · **LexiIntake LLC** | USCIS I-130/I-485 voice bots & OCR · 95%+ accuracy · 50% intake lift |
-| **12/2023 – 03/2025** | Senior Full Stack AI Engineer · **Hubaix** | AI Chrome ext · interview platform · LLaMA 3.2 Arabic fine-tune |
-| **08/2023 – 12/2023** | Full Stack Developer · **Digital Bakerz** | Java/Python CLI + Flutter apps |
-| **02/2022 – 03/2023** | Software Engineer · **Kreative Art** | Go-based secure tunneling systems |
-
----
-
 ### ⚙️ Tech Stack
 
-**AI / LLM Engineering**
+**Generative AI & LLM Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haystack-03AF9D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+</p>
+
+**Models & Providers**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+</p>
+
+**Fine-Tuning & Training**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unsloth-00B894?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-7B61FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+**Inference & Local LLMs**
+
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-30A14E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-22D3EE?style=for-the-badge&logoColor=black" />
+</p>
+
+**Specializations**
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&labelColor=22D3EE&color=0D1117" />
+  <img src="https://img.shields.io/badge/Agentic%20RAG-0D1117?style=for-the-badge&labelColor=22D3EE&color=0D1117" />
+  <img src="https://img.shields.io/badge/Supervised%20Fine--Tuning-0D1117?style=for-the-badge&labelColor=22D3EE&color=0D1117" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-0D1117?style=for-the-badge&labelColor=22D3EE&color=0D1117" />
+  <img src="https://img.shields.io/badge/Function%20Calling-0D1117?style=for-the-badge&labelColor=22D3EE&color=0D1117" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&labelColor=22D3EE&color=0D1117" />
+  <img src="https://img.shields.io/badge/Evals%20%26%20Observability-0D1117?style=for-the-badge&labelColor=22D3EE&color=0D1117" />
 </p>
 
 **Voice & Multimodal**
@@ -141,14 +173,6 @@ class NabiBukhsh:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NabiBukhsh-AI&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
-
----
-
-### 🎓 Education
-
-**B.S. Computer Science** — Shaheed Zulfikar Ali Bhutto Institute of Science & Technology (SZABIST), Karachi · *2020 – 2025*
-
-🏆 Debugging Competition Winner · Executive Member, ZABMUN · Director Operations, SZABIST Cultural Society · President, Rotaract Club of SZABIST Karachi
 
 ---
 
