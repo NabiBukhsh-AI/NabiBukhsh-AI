@@ -162,12 +162,12 @@ class NabiBukhsh:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=NabiBukhsh-AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-blond-two-56.vercel.app/api?username=NabiBukhsh-AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NabiBukhsh-AI&theme=tokyonight&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabiBukhsh-AI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" />
+  <img src="https://github-readme-stats-blond-two-56.vercel.app/api/top-langs/?username=NabiBukhsh-AI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" />
 </p>
 
 <p align="center">
