@@ -104,14 +104,6 @@ class NabiBukhsh:
 
 ---
 
-### 🚀 What I'm Working On
-
-- 🛰️ **News Verification Pipeline** — two-layer system combining grounded fact-checking with stylometric AI-text detection, orchestrated via n8n
-- 📊 **Multi-Pattern Trading Framework** — Python backtesting engine + MQL5 Expert Advisors with event-driven concurrent position simulation
-- 🧰 **Eval Infrastructure** — making LLM pipelines reproducible, observable, and version-controlled
-
----
-
 ### 🌐 Connect
 
 <p align="center">
