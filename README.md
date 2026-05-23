@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm Nabi Bukhsh 👋
+  Hey, I'm Nabi Bukhsh Jawed 👋
 </h1>
 
 <p align="center">
@@ -162,7 +162,7 @@ class NabiBukhsh:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NabiBukhsh-AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=NabiBukhsh-AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NabiBukhsh-AI&theme=tokyonight&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
 </p>
 
@@ -171,7 +171,7 @@ class NabiBukhsh:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NabiBukhsh-AI&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NabiBukhsh-AI&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE" />
 </p>
 
 ---
