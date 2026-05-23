@@ -1,40 +1,54 @@
 <h1 align="center">
-  Hey, I'm Nabi Bukhsh 👋
+  Hey, I'm Nabi Bukhsh Jawed 👋
 </h1>
 
 <p align="center">
   <a href="https://github.com/NabiBukhsh-AI">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Senior+AI+Engineer;LLM+Pipelines+%E2%80%A2+RAG+%E2%80%A2+Agents;Quantitative+Trader+%E2%9A%A1+Systematic+Strategies;Building+where+AI+meets+the+markets" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Senior+AI+Engineer+%40+Tracker+AI;LLM+Fine-Tuning+%E2%80%A2+RAG+%E2%80%A2+Agentic+Systems;Voice+AI+%E2%80%A2+OCR+%E2%80%A2+Production+ML;Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NabiBukhsh-AI&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/NabiBukhsh-AI?style=for-the-badge&color=22D3EE&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20LLM%20Engineering-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm a **Senior AI Engineer** designing production LLM systems — retrieval pipelines, agentic workflows, and evaluation infrastructure that actually holds up outside a notebook. On the side, I run **systematic trading research** across FX and metals, where the same engineering discipline pays in different units.
+**Senior AI Engineer** building production LLM systems — fine-tuning, evaluation, RAG, voice agents, and OCR pipelines that ship to real users. Five years across full-stack engineering and AI, with a focus on the parts most teams skip: data quality, eval harnesses, and reliable deployment.
 
 ```python
 class NabiBukhsh:
-    role        = "Senior AI Engineer"
-    also        = "Quantitative Trader"
-    focus       = ["LLM Pipelines", "RAG", "Agent Orchestration", "Evals"]
-    sideline    = ["Algorithmic Trading", "Backtesting", "Strategy Research"]
-    obsession   = "shipping reliable AI under real-world constraints"
-    currently   = "building a multi-stage news verification pipeline"
+    role        = "Senior AI Engineer @ Tracker AI"
+    based_in    = "Karachi, Pakistan"
+    expertise   = ["LLM Fine-Tuning (SFT)", "Agentic RAG", "Voice AI", "OCR"]
+    stack       = ["Python", "FastAPI", "LangChain", "PyTorch", "Docker", "GCP"]
+    shipped     = ["USCIS intake automation", "AI interview platform",
+                   "LLaMA 3.2 Arabic fine-tune", "AI Chrome extension"]
+    sideline    = "Systematic trading research (MQL5 / Python)"
+    believes_in = "Evals > vibes. Pipelines > prompts."
 ```
 
-- 🔭 Building **claim-extraction + grounded-retrieval + stylometric detection** pipelines
-- 🧩 Orchestrating workflows with **n8n**, serving models across **Groq, Anthropic, OpenAI, and local stacks**
-- 📈 Researching systematic strategies in **MQL5 / Python** — event-driven backtests, multi-pattern parameter sweeps
-- 🧪 Big believer in **eval-driven development**, prompt versioning, and treating LLMs as components — not magic
-- 💬 Ask me about **RAG, agent design, backtesting infra, or LLM ops**
+- 🔭 Currently leading **supervised fine-tuning** of open-source LLMs on domain-specific corpora at Tracker AI
+- 🧩 Designing **behavioral evaluation frameworks** — regression testing, response consistency, reasoning checks
+- 🎙️ Background in **voice-first AI** (Whisper, Deepgram, ElevenLabs) and high-accuracy **document OCR**
+- 👥 Have led and mentored engineering teams of 6+
+- 📈 *On the side:* researching systematic strategies in FX and metals — because backtesting is just evals with a P&L curve
+
+---
+
+### 💼 Experience Highlights
+
+| When | Role | What I shipped |
+|------|------|----------------|
+| **09/2025 – Present** | Senior AI Engineer · **Tracker AI** | SFT pipelines, eval frameworks, versioned production rollouts |
+| **05/2025 – 08/2025** | Senior AI Engineer · **LexiIntake LLC** | USCIS I-130/I-485 voice bots & OCR · 95%+ accuracy · 50% intake lift |
+| **12/2023 – 03/2025** | Senior Full Stack AI Engineer · **Hubaix** | AI Chrome ext · interview platform · LLaMA 3.2 Arabic fine-tune |
+| **08/2023 – 12/2023** | Full Stack Developer · **Digital Bakerz** | Java/Python CLI + Flutter apps |
+| **02/2022 – 03/2023** | Software Engineer · **Kreative Art** | Go-based secure tunneling systems |
 
 ---
 
@@ -44,45 +58,71 @@ class NabiBukhsh:
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-**Data / Vector / Retrieval**
+**Voice & Multimodal**
 
 <p>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weaviate-009688?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DALL%C2%B7E-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-**Backend / Infra**
+**Backend & APIs**
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-**Quant / Trading**
+**Databases & Vectors**
 
 <p>
-  <img src="https://img.shields.io/badge/MQL5-2A2E39?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaTrader%205-0066CC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pine%20Script-2A2E39?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backtrader-2E8B57?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modal-7B61FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+**Frontend & Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Security & Networking**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
@@ -101,6 +141,14 @@ class NabiBukhsh:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NabiBukhsh-AI&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
+
+---
+
+### 🎓 Education
+
+**B.S. Computer Science** — Shaheed Zulfikar Ali Bhutto Institute of Science & Technology (SZABIST), Karachi · *2020 – 2025*
+
+🏆 Debugging Competition Winner · Executive Member, ZABMUN · Director Operations, SZABIST Cultural Society · President, Rotaract Club of SZABIST Karachi
 
 ---
 
