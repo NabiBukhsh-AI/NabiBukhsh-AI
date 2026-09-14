@@ -223,23 +223,6 @@ Turns agent trajectory logs into validated, versioned natural-language skills ap
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-blond-two-56.vercel.app/api?username=NabiBukhsh-AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats for NabiBukhsh-AI" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=NabiBukhsh-AI&theme=tokyonight&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="Contribution streak for NabiBukhsh-AI" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-blond-two-56.vercel.app/api/top-langs/?username=NabiBukhsh-AI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8&exclude_repo=github-readme-stats,iloveAgents,fidy-ai" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NabiBukhsh-AI&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE" alt="Contribution activity graph" />
-</p>
-
----
-
 ### 🌐 Open To
 
 Senior AI Engineer and LLM engineering roles, remote or on-site.
